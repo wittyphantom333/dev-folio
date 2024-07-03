@@ -24,28 +24,27 @@
     <a href="#arifszn"><img src="https://arifszn.github.io/assets/img/drop-shadow.png" width="60%" alt="Shadow"/></a>
 </p>
 
-<span className="keyword">Ezfolio</span> is a professional open source portfolio CMS built using <b>Laravel</b>, <b>React</b> and <b>Ant Design</b>. Choose from awesome templates and control what you like to show your audience. It offers a minimalist admin interface with lots of option for customizations. Get all the features of a portfolio site including visitor tracking, google analytics, maintenance mode, contact form, SEO and many more. 
+<span className="keyword">Ezfolio</span> is a professional open source portfolio CMS built using <b>Laravel</b>, <b>React</b> and <b>Ant Design</b>. Choose from awesome templates and control what you like to show your audience. It offers a minimalist admin interface with lots of option for customizations. Get all the features of a portfolio site including visitor tracking, google analytics, maintenance mode, contact form, SEO and many more.
 
 This project can be used as a guide for learning Laravel with React and making a SPA.
 
-- Made with Laravel, React and Ant Design
-- JWT Authentication
-- Single Page Application
-- Modern and Responsive Design
-- Multiple Templates
-- Theme Color Customization
-- Custom Scripting
-- Visitor Tracking
-- Location Tracking
-- Google Analytics
-- Maintenance Mode
-- Contact Form
-- Search Engine Optimization
-- Section Visibility
-- And Much More…
+-   Made with Laravel, React and Ant Design
+-   JWT Authentication
+-   Single Page Application
+-   Modern and Responsive Design
+-   Multiple Templates
+-   Theme Color Customization
+-   Custom Scripting
+-   Visitor Tracking
+-   Location Tracking
+-   Google Analytics
+-   Maintenance Mode
+-   Contact Form
+-   Search Engine Optimization
+-   Section Visibility
+-   And Much More…
 
 > Client: https://github.com/arifszn/ezfolio/tree/main/resources/js/client
-
 
 ## Demo
 
@@ -62,7 +61,7 @@ Password: 12345
 
 ## Docs
 
-Checkout the <a href="http://arifszn.github.io/ezfolio">docs</a>. 
+Checkout the <a href="http://arifszn.github.io/ezfolio">docs</a>.
 
 ## Screenshots
 
@@ -90,24 +89,21 @@ Checkout the <a href="http://arifszn.github.io/ezfolio">docs</a>.
     <kbd><img src="https://arifszn.github.io/ezfolio/img/assets/screenshots/vega.png" alt="Vega"/></kbd>
 </details>
 
-
 ## Installation
 
-- Clone the repo
-- Run ```composer install```
-- Run ```cp .env.example .env```
-- Provide db name, username and password in .env
-- Run ```php artisan migrate --seed```
-- Run ```npm install```
-- Run ```npm run prod``` or ```npm run watch```
+-   Clone the repo
+-   Run `composer install`
+-   Run `cp .env.example .env`
+-   Provide db name, username and password in .env
+-   Run `php artisan migrate --seed`
+-   Run `npm install`
+-   Run `npm run prod` or `npm run watch`
 
 For more info, visit the <a href="http://arifszn.github.io/ezfolio">docs</a>.
-
 
 ## Contributing
 
 We are looking for contributors to add more frontend templates and features. You can also contribute by participating through issues, discussion and pull requests. Check out our <a href="https://github.com/arifszn/ezfolio/blob/main/CONTRIBUTING.md">contribution guide</a> for more info.
-
 
 ## Thank You
 
@@ -116,7 +112,6 @@ We are looking for contributors to add more frontend templates and features. You
 ## Support
 
 Show your ❤️ and support by giving a ⭐.
-
 
 ## License
 
